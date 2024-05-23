@@ -31,7 +31,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>CICD2__c</field>
+                <field>owner2__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
@@ -140,14 +140,6 @@
             <layoutItems>
                 <behavior>Edit</behavior>
                 <field>Description</field>
-            </layoutItems>
-            <layoutItems>
-                <behavior>Edit</behavior>
-                <field>Test__c</field>
-            </layoutItems>
-            <layoutItems>
-                <behavior>Edit</behavior>
-                <field>color_theme__c</field>
             </layoutItems>
         </layoutColumns>
         <style>OneColumn</style>
